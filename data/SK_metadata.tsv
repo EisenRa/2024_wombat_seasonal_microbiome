@@ -1,0 +1,140 @@
+sampleid	Location	Wonga	Sublocation	Vegetation 	Rainfall_level	Rainfall_av_3mth	Rainfall_av_6mth	Season	Notes	Date	Seasonal	Recapture	Bag_ID	Microchip	Sex	Body_Weight	Head_Length	Head_Width	Condition_Score	Scrotal_Width	Acc_Gland_Length	Acc_Gland_Width	Pouch_Status	Age_Class
+SK-100bb22	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-101R1	Kooloola	N		Introduced	Mid	22.9	15.3			7/9/2021	N	Y	22	7ABD26D	F	22.6	179.7	117.3	4				subadult (dry and shallow)	Subadult
+SK-102R2	Kooloola	N		Introduced	Mid	4.6	8.73	Summer_Autumn		10/04/2019	Y	Y	10_FS bag 10	7ABD26D	F		157	104.6	2				subadult (dry and shallow)	Subadult
+SK-103R3	Kooloola	N		Introduced	Mid	4.6	8.73			2019	N	Y	91_FS	94320324122	M									Subadult
+SK-104R4	Kooloola	N		Introduced	Mid	25.8	8.6			05/05/2021	N	Y	2	94320324122	M	19.7	188.7	134.9	3	49.9	63	69.8		Adult
+SK-105R5	Kooloola	N		Introduced	Mid	4.6	8.73	Summer_Autumn		10/04/2019	Y	Y	9_FS bag 9	7ABE063	M	18.9	178.4	133.7	3	52.3	65	45.5		Adult
+SK-106R6	Kooloola	N		Introduced	Mid	14.1	16.2			28/10/2019	N	Y	203_FS bag 3	7ABE063	M	23.3	173.1	133.7	3	54.9	73.1	61.6		Adult
+SK-107R7	Kooloola	N		Introduced	Mid	22.4	13.7			29/08/2019	N	Y	100_FS bag 10	7ACA357	M	26.3	183	139.8	3	51.9	71.3	68		Adult
+SK-108R8	Kooloola	N		Introduced	Mid	14.1	16.2			29/10/2019	N	Y	212_FS bag 12	7ACA357	M	26.4	182.9	141.8	3	55.1	66	75.3		Adult
+SK-109R9	Kooloola	N		Introduced	Mid	14.1	16.2		one failed	28/10/2019	N	N	208_FS bag 8	7AC0B0C	F	23.2	182.8	135.7	3.5				Moist and deep	Adult
+SK-10	Wonga	Y		Native	Mid	67.33	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-110R10	Kooloola	N		Introduced	Mid	21.2	17.5		one failed	25/10/2021	N	N	1	7AC0B0C	F	22.5	193.5	130	2.5				Pink, Dirty	Adult
+SK-111R11	Kooloola	N		Introduced	Mid	14.1	16.2			28/10/2019	N	Y	205_FS bag 5	783872B	M	18	163.3	119.2	3	34				Subadult
+SK-112R12	Kooloola	N		Introduced	Mid	13.7	11.5			19/07/2021	N	Y	2	783872B	M	20.4	179.4	129.4	3	50.3				Subadult
+SK-113R13	Kooloola	N		Introduced	Mid	21.2	17.5		Failed	25/10/2021	N	N	9	783872B	M	22.3	200.2	125.7	3	56.6	40.4	52.3		Adult
+SK-114R14	Kooloola	N		Introduced	Mid	20.1	20.7	Summer_Autumn		22/01/2022	Y	N	1	783CF8B	M	19.5	180.6	123.6	2	49.6				Adult
+SK-115R15	Kooloola	N		Introduced	Mid	25.8	8.6		Failed	05/05/2021	N	N	3	783CF8B	M	18.9	188.6	128.7	2	48.8	55.1	69.3		Adult
+SK-116R16	Kooloola	N		Introduced	Mid	21.2	17.5			25/10/2021	N	Y	6	783DCF3	M	26	205	133.5	3	52.4	86.6	56.9		Adult
+SK-117R17	Kooloola	N		Introduced	Mid	13.7	11.5			19/07/2021	N	Y	1	783DCF3	M	25.5	181.6	133.3	3.5	44.1	67.3	60.8		Adult
+SK-118R18	Kooloola	N		Introduced	Mid	14.1	16.2			28/10/2019	N	Y	211_FS bag 11	783DCF3	M	26.5	183.9	130	3.5	55.5	74.3	77		Adult
+SK-119R19	Kooloola	N		Introduced	Mid	13.7	11.5			19/07/2021	N	Y	6	7AC5251	F	22	169.1	137.1	3				Dirty, deep, dry	Adult
+SK-11AU1	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-120R20	Kooloola	N		Introduced	Mid	21.2	17.5			27/10/2021	N	Y	28	7AC5251	F	22.8	189.1	134.4	3.5				Moist, pink, dirty, deep	Adult
+SK-121R21	Kooloola	N		Introduced	Mid	13.7	11.5	Winter_Spring		19/7/2021	Y	N	3	783DE6E	F	22.5	179	131.8	3.5				Deep, dirty, anoestrus	Adult
+SK-122R22	Kooloola	N		Introduced	Mid	21.2	17.5			26/10/2021	N	N	17	DE6E	F	23.5	194.8	132.2	3.5				Dirty, late lactation	Adult
+SK-123K1	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		06/09/2021	Y	N	1	783F44F	F	23.3	181	131.6	3				Very moist, dirty, deep	Adult
+SK-124K2	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		06/09/2021	Y	N	7	783B95B	M	24.5	190.9	138.2	4	45.7	65.2	70.8		Adult
+SK-125K3	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring	Failed	06/09/2021	N	N	9	7AC229D	F	26	199.2	133.6	3.5				Deep	Adult
+SK-126K4	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		06/09/2021	Y	N	10	7AC0B71	F	21	183.7	122.4	3				Moist, dirty, deep	Adult
+SK-127K5	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		06/09/2021	Y	N	12	7ABE0BE	M	23	195.6	130.6	2.5	51	72	67		Adult
+SK-128K6	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		06/09/2021	Y	N	14	783DF09	F	26.8	194.5	135	4				Late lactation	Adult
+SK-129K7	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		07/09/2021	Y	N	16	66DEAF2	F	26.5	189.5	132.7	4.5				Moist	Adult
+SK-12AU2	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn	Failed	20/04/2021	N	N												
+SK-130K8	Kooloola	N		Introduced	Mid	22.9	15.3	Winter_Spring		07/09/2021	Y	N	20	7AC10E5	M	25	193.5	135.8	4	52.4	52.5	50.1		Adult
+SK-131K9	Kooloola	N		Introduced	Mid	13.7	11.5	Winter_Spring		19/07/2021	Y	N	5	7ABC139	F	23.7	183.7	133.6	4				Clean, cycling, moist	Adult
+SK-132K12	Kooloola	N		Introduced	Mid	20.1	20.7	Summer_Autumn		22/01/2022	Y	N	2	783EA8C	M	18.8	105.1	133.3	2.5	48.1	63	64.8		Adult
+SK-133K13	Kooloola	N		Introduced	Mid	20.1	20.7	Summer_Autumn		22/01/2022	Y	N	4	7ABEFEA	F	19.1	181.4	117.9	2.5				Dry, deep, clean	Adult
+SK-134K14	Kooloola	N		Introduced	Mid	4.6	8.73	Summer_Autumn		09/04/2019	Y	N	4_FS bag 4	783B223	M	23.1	181.2	128.7	3	38.3	58.9	50		Subadult
+SK-135K15	Kooloola	N		Introduced	Mid	4.6	8.73	Summer_Autumn		09/04/2019	Y	N	6_FS bag 6	7838F91	F		188	134.6					dry, deep, anoestrus	Adult
+SK-136K16	Kooloola	N		Introduced	Mid	9.3	13.7	Summer_Autumn		13/04/2021	Y	N	1	7808A8D	M	18.3	178.2	132.7	2.5	57.1				Adult
+SK-137K17	Kooloola	N		Introduced	Mid	9.3	13.7	Summer_Autumn		13/04/2021	Y	N	6	7ABDA39	M	21	194.2	139.6	2.5	49.4	52	61.7		Adult
+SK-138K18	Kooloola	N		Introduced	Mid	9.3	13.7	Summer_Autumn	R23	15/4/2021	Y	Y	14	7ABE063	M	19.3	179.8	133	3	52.7				Adult
+SK-13AU3	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-14AU4	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-15AU5	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-16AU6	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-17AU7	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-18AU8	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-19AU9	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-20AU10	Wonga	Y		Native	Mid	13	27.1	Summer_Autumn		20/04/2021	Y	N												
+SK-21bb49	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-22bb52	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-23bb54	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-24bb58	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-25bb59	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-26bb60	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-27bb61	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-28bb62	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-29bb63	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-2A1	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-2B2	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-2C3	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring	Failed	28/09/2021	N	N												
+SK-2D4	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-2E5	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-2F6	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-2G7	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-2H8	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-30bb64	Bon Bon	N	Mulga Well Track	Native	Low	21.6	22	Summer_Autumn		30/03/2022	Y	N												
+SK-31bb30	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-32bb31	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-33bb32	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-34bb33	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-35bb35	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-36bb36	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-37bb37	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-38bb38	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-39bb39	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/3/2022	Y	N												
+SK-3	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/09/2021	Y	N												
+SK-40bb40	Bon Bon	N	Kingoonya Road	Native	Low	21.6	22	Summer_Autumn		29/03/2022	Y	N												
+SK-41TW30	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-42TW31	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-43TW32	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-44TW33	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-45TW34	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-46TW35	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-47TW36	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-48TW37	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-49TW38	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-50TW39	Eyre Peninsula	N	Terry Williams	Native	High	23.16	30.23	Summer_Autumn		13/05/2022	Y	N												
+SK-51DAK30	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-52DAK31	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-53DAK32	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-54DAK33	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-55DAK34	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-56DAK35	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-57DAK36	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-58DAK37	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-59DAK38	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-60DAK39	Eyre Peninsula	N	Dakalanta	Native	High	14.73	35.71	Summer_Autumn		11/05/2022	Y	N												
+SK-61TW1	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-62TW2	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-63TW3	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-64TW4	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-65TW5	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-66TW6	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-67TW8	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-68TW9	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-69TW10	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-70TW11	Eyre Peninsula	N	Terry Williams	Native	High	26.33	42.46	Winter_Spring		3/11/2021	Y	N												
+SK-71D1	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-72D2	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-73D3	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-74D4	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-75D5	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-76D6	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-77D7	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-78D8	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-79D9	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-80D10	Eyre Peninsula	N	Dakalanta	Native	High	26.4	46.35	Winter_Spring		4/11/2021	Y	N												
+SK-81BB12	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-82BB13	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-83BB14	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-84bb15	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-85bb16	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-86bb17	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-87bb24	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		24/11/2021	Y	N												
+SK-88bb25	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		25/11/2021	Y	N												
+SK-89bb26	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		25/11/2021	Y	N												
+SK-90bb27	Bon Bon	N	Kingoonya Road	Native	Low	20.7	14	Winter_Spring		25/11/2021	Y	N												
+SK-91bb1	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-92bb2	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-93bb4	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-94bb5	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-95bb7	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-96bb9	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-97bb10	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-98bb18	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-99bb21	Bon Bon	N	Mulga Well Track	Native	Low	20.7	14	Winter_Spring		23/11/2021	Y	N												
+SK-9	Wonga	Y		Native	Mid	21.5	15.95	Winter_Spring		28/9/2021	Y	N												

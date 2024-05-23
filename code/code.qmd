@@ -1,0 +1,127 @@
+---
+title: "Yellow-footed rock wallaby faecal 16S paper"
+author: Raphael Eisenhofer/Shannon Kleemann
+format: 
+  gfm:
+    fig-width: 12
+    fig-height: 7
+    fig-dpi: 300
+  html:
+    fig-width: 12
+    fig-height: 7
+    fig-dpi: 300  
+editor: visual
+---
+
+# Code for wombat seasonal analyses & figures
+
+### Load packages/data
+
+```{r}
+#| message: false
+#| warning: false  
+
+library(phyloseq)
+library(qiime2R)#Convert to phyloseq object
+library(microbiome)
+library(tidyverse)
+library(BiocManager)
+library(ggh4x) #Linear mixed models
+library(ggtext)
+library(plotly) #Make ggplot2 graphs interactive
+library(ggplot2) #Graphs
+library(ggpubr) #Additional ggplot2 themes
+library(ANCOMBC) #Differential abundance
+library(cowplot) #Combine plots into one image
+library(readr)  #Write csv files
+library(knitr)  #View tibble in console
+library(vegan) #PERMANOVA
+library(lme4) #Linear models
+library(writexl) #create excel file
+library(microshades) #Relative abundance graphs
+library(patchwork) #Combine multiple plots
+library(gridExtra) #Arrange grid based plots
+
+ps <- qza_to_phyloseq(
+  features = "../data/SK_RE_merged_ASV_table.qza",
+  tree = "../data/SK_sepp_tree.qza",
+  taxonomy = "../data/SK_SILVA_138.qza",
+  metadata = "../data/SK_metadata.tsv"
+)
+
+#Add 'sampleid' column to metadata
+ps@sam_data$sample_id = rownames(ps@sam_data)
+```
+
+### Filter phyloseq object
+
+```{r}
+#| message: false
+#| warning: false
+
+#Filter out Chloroplast and Mitochondria
+ps <- subset_taxa(ps, Genus != "Chloroplast" & Order != "Chloroplast")
+ps <- subset_taxa(ps, Genus != "Mitochondria" & Order != "Mitochondria")
+
+#Here we rarefy the table, rngseed = the random seed we use -- useful for reproducbility
+ps_rar <- rarefy_even_depth(ps, sample.size = 9510, 
+                            rngseed = 1337, verbose=TRUE)
+#`set.seed(1337)` was used to initialize repeatable random subsampling, record this
+
+##remove ASVs from each sample that are <0.05% (per sample-basis)
+# Set the relative abundance threshold
+threshold <- 0.0005 # = 0.05%
+
+# Calculate the total counts for each sample
+total_counts <- colSums(ps_rar@otu_table)
+
+# Calculate the threshold counts for each sample
+threshold_counts <- total_counts * threshold
+
+# Multiply the OTU table by a logical matrix indicating which values are above the threshold
+filtered <- ps_rar@otu_table * (ps_rar@otu_table >= threshold_counts)
+
+# Load back into out phyloseq object
+ps_filt <- ps_rar
+ps_filt@otu_table <- otu_table(filtered, taxa_are_rows = TRUE)
+
+# Check out how much data remains:
+remaining <- as.tibble(scales::percent(sample_sums(ps_filt) / sample_sums(ps_rar), accuracy = 0.1)) %>%
+  mutate(value = as.numeric(str_replace(value, "%", "")))
+
+mean_remaining <- scales::number(mean(remaining$value), accuracy = 0.1)
+sd_remaining <- scales::number(sd(remaining$value), accuracy = 0.1)
+
+remaining %>%
+  ggplot(aes(x = value)) +
+  geom_histogram() +
+  theme_classic() +
+  xlab("Percentage of reads remaining after ASV filtering (%)")
+```
+
+Mean of `r mean_remaining`% (+- `r sd_remaining`%) reads passing per-sample ASV filtering.
+
+```{r}
+#| message: false
+#| warning: false  
+```
+
+```{r}
+#| message: false
+#| warning: false  
+```
+
+```{r}
+#| message: false
+#| warning: false  
+```
+
+```{r}
+#| message: false
+#| warning: false  
+```
+
+```{r}
+#| message: false
+#| warning: false  
+```
